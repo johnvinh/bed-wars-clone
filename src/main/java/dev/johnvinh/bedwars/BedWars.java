@@ -2,7 +2,7 @@ package dev.johnvinh.bedwars;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class Bed_wars extends JavaPlugin {
+public final class BedWars extends JavaPlugin {
 
     @Override
     public void onEnable() {
