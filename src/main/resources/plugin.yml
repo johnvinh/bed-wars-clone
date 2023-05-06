@@ -1,0 +1,4 @@
+name: bed-wars
+version: '${version}'
+main: dev.johnvinh.bedwars.Bed_wars
+api-version: 1.19
